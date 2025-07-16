@@ -1,4 +1,4 @@
-#🧑‍⚖️ Legal Chatbot AI
+🧑‍⚖️ Legal Chatbot AI
 
 A modern frontend interface for a professional legal chatbot application, built with React, TypeScript, Vite, and Tailwind CSS. This project serves as the user interface for interacting with an AI-powered legal assistant that can answer questions, explain legal terms, and generate basic legal documents.
 
